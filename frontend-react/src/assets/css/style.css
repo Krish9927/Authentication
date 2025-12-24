@@ -4,3 +4,6 @@ body{
 .bg-light-dark{
     background-color: rgb(107, 66, 123);
 }
+.bg-dark{
+    background-color: rgb(51, 46, 46);
+}
